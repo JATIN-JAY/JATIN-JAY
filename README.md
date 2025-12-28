@@ -1,5 +1,19 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>A microservices-based e-commerce backend project (ScaleCart) using Node.js, Docker, Nginx, and CI/CD with GitHub Actions.<br><br>👯 I’m looking to collaborate on<br>Backend-focused projects involving APIs, microservices, system design, and DevOps fundamentals.<br><br>🤝 I’m looking for help with<br>Improving system design skills and learning production-level backend & DevOps best practices.<br><br>🌱 I’m currently learning<br>Advanced Node.js, Express, Docker, Docker Compose, Nginx API Gateway, and CI/CD pipelines.<br><br>💬 Ask me about<br>Backend development, REST APIs, MongoDB, JWT authentication, and project structuring.<br><br>⚡ Fun fact<br>I believe consistency beats motivation — daily GitHub commits are my accountability system.
+💫 About Me
+
+🔭 Currently working on
+A microservices-based e-commerce backend (ScaleCart) using Node.js, Docker, Nginx, and CI/CD.
+
+👯 Open to collaborate on
+Backend, API-driven, and microservices-focused projects.
+
+🌱 Currently learning
+System design, Dockerized backends, and CI/CD workflows.
+
+💬 Ask me about
+Node.js, Express, REST APIs, MongoDB, JWT, and backend project structure.
+
+⚡ Fun fact
+Consistency beats motivation — daily GitHub commits keep me accountable.
 
 
 # 💻 Tech Stack:
