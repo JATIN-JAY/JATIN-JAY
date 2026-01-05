@@ -23,8 +23,10 @@ Consistency beats motivation — daily GitHub commits keep me accountable.
 ![](https://nirzak-streak-stats.vercel.app/?user=JATIN-JAY&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JATIN-JAY&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JATIN-JAY&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JATIN-JAY&theme=onedark&margin-w=8&row=1)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JATIN-JAY&icon=3&color=1)](https://visitcount.itsvg.in)
