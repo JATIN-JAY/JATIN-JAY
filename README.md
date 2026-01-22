@@ -26,8 +26,7 @@ Consistency beats motivation — daily GitHub commits keep me accountable.
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JATIN-JAY&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
+![GitHub Trophies](https://github-profile-trophy-git.vercel.app/?username=JATIN-JAY&theme=onedark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JATIN-JAY&icon=3&color=1)](https://visitcount.itsvg.in)
