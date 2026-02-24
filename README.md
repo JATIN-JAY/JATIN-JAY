@@ -1,13 +1,9 @@
 💫 About Me
-
-🔭 Currently working on
-A microservices-based e-commerce backend (ScaleCart) using Node.js, Docker, Nginx, and CI/CD.
+🌱 Currently learning
+System design, Dockerized backends, and CI/CD workflows.
 
 👯 Open to collaborate on
 Backend, API-driven, and microservices-focused projects.
-
-🌱 Currently learning
-System design, Dockerized backends, and CI/CD workflows.
 
 💬 Ask me about
 Node.js, Express, REST APIs, MongoDB, JWT, and backend project structure.
